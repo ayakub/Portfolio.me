@@ -68,12 +68,11 @@ section.alt { background: var(--bg-alt); }
 
 /* ---------- Hero ---------- */
 .hero {
-  min-height: 100vh;
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 40px;
-  padding-top: 130px;
+  padding-top: 80px;
   background: linear-gradient(135deg, #eff6ff 0%, #ffffff 60%);
 }
 .hero-text { flex: 1; }
